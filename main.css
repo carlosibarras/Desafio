@@ -21,6 +21,10 @@ body{
     font-size: 2.9em;
 } */
 
+.header h1{
+    text-align: center;
+}
+
 .rowFlex {
 	display: flex; /* propiedad que permite aplicar flexbox sobre contenedor padre*/
 	flex-direction: row; /*elegimos orientación sobre eje X o Y -*/	
