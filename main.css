@@ -119,6 +119,10 @@ padding: 20px;font-size: 20px; background-color: yellow;}
     background-color: blanchedalmond;
 }
 
+.sidebar img:hover{
+    transform: rotate(10deg);
+}
+
 @media screen and (max-width: 768px){
     body{
         background-color: blueviolet;
